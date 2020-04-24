@@ -1,3 +1,7 @@
+Add the moving method in the myTeam file
+
+
+
 # COMP 90054
 Code adapted by Nir Lipovetzky and Guang Hu.
 # CS188
